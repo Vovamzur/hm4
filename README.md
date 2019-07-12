@@ -1,6 +1,8 @@
-homework 4
+## homework 4
+TypeScript 
 
-npm i
-npm run dev
+## Instalation
+npm install<br />
+npm run start<br />
+localhost:8000
 
-open localhost:8000
